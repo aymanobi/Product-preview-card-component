@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Product preview card component](./Screenshot 2023-03-06 at 23-28-56 Frontend Mentor Product preview card component.png)
+![Product preview card component](./Screenshot.png)
 
 
 ### Links
